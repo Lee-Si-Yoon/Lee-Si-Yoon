@@ -5,7 +5,7 @@
 ### 📊 Recent development breakdown
 <!--START_SECTION:waka-->
 
-```rust
+```txt
 From: 12 September 2023 - To: 12 October 2023
 
 No activity tracked
